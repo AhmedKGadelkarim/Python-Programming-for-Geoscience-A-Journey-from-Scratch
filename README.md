@@ -2,6 +2,11 @@
 This repo includes all files of the python programming for geoscience course that was delivered in February 2025, in the form of 11 Online sessions, Organized in cooperation with SEG Tanta University  This playlist offers a comprehensive introduction to Python programming, tailored specifically for geoscientists interested in learning how to code in python.
 This repo offers a comprehensive introduction to Python programming, tailored specifically for students, early-career geoscientists, and earth science professionals interested in learning how to code in python.
 
+# Folders Description:
+- Sessions Notebooks and Links contains 11 folders of 11 sessions; in each folder you will find the session notebook in both .ipynb and pdf format as well as the .txt document containing the session link on youtube.
+- Assignment folder contains assignment files given during the course named with a prefix of the session nubmer.
+
+
 # The course focuses on:
 - Foundational programming concepts with real-world geoscience examples
 - Practical Python including data types, mathematical operations, control flow, functions, data structures, Data Structure Comprehension, Special Functions, and object-oriented programming (OOP)
